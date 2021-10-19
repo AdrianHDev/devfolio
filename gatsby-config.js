@@ -3,56 +3,40 @@ module.exports = {
     // Site URL for when it goes live
     siteUrl: `https://elastic-meninsky-aa7c74.netlify.app/`,
     // Your Name
-    name: 'Ryan Fitzgerald',
+    name: 'Lexi Henson',
     // Main Site Title
-    title: `Ryan Fitzgerald | Full-Stack Developer`,
+    title: `Lexi Henson | Full-Stack Developer`,
     // Description that goes under your name in main bio
-    description: `Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.`,
+    description: `Full-Stack Web Developer, `,
     // Optional: Twitter account handle
-    author: `@rfitzio`,
+    author: ``,
     // Optional: Github account URL
-    github: `https://github.com/ryanfitzgerald`,
+    github: `https://github.com/lexihdev`,
     // Optional: LinkedIn account URL
-    linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
+    linkedin: `https://www.linkedin.com/in/lexi-henson-258855155/`,
     // Content of the About Me section
-    about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
+    about: `I love the development process, from debugging to writing tests, and also code as a hobby.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: 'Devfolio',
+        name: 'Video Game Trivia App',
         description:
-          'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
-      },
-      {
-        name: 'ChromeExtensionKit',
-        description:
-          'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
+          'Quick little trivia applet made in React.JS',
         link: 'https://chromeextensionkit.com/?ref=devfolio',
       },
       {
-        name: 'Another Cool Project',
+        name: 'Secret-Recipes',
         description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          'A site designed to store recipes and share them with other accounts built with ReactJS, & Bootstrap',
+        link: 'https://github.com/ft-secret-recipes-1/front-end',
       },
+     
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'Acme Corp',
-        description: 'Full-Stack Developer, February 2020 - Present',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
-      },
-      {
-        name: 'Globex Corp',
-        description: 'Full-Stack Developer, December 2017 - February 2020',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
-      },
-      {
-        name: 'Hooli',
-        description: 'Full-Stack Developer, May 2015 - December 2017',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'HAC Inc.',
+        description: 'Food-Clerk / Cashier , Mar 2019 - Mar 2020',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
@@ -60,7 +44,7 @@ module.exports = {
       {
         name: 'Languages & Frameworks',
         description:
-          'JavaScript (ES6+), Golang, Node.js, Express.js, React, Ruby on Rails, PHP',
+          'JavaScript (ES6+), GDScript, Python, Node.js, Express.js, React, TypeScript'
       },
       {
         name: 'Databases',
@@ -69,7 +53,7 @@ module.exports = {
       {
         name: 'Other',
         description:
-          'Docker, Amazon Web Services (AWS), CI / CD, Microservices, API design, Agile / Scrum',
+          'Docker, Amazon Web Services (AWS), CI / CD, API design,',
       },
     ],
   },
