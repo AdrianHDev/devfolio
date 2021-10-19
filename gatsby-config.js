@@ -22,7 +22,7 @@ module.exports = {
         name: 'Video Game Trivia App',
         description:
           'Quick little trivia applet made in React.JS, set up with autodeploy through vercel.',
-        link: "https://web-module-project-async-redux-five.vercel.app/',
+        link: 'https://web-module-project-async-redux-five.vercel.app/',
       },
       {
         name: 'Secret-Recipes',
