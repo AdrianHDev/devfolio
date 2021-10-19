@@ -35,8 +35,9 @@ module.exports = {
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'HAC Inc.',
+        name: 'HAC Inc. | Homeland Stores',
         description: 'Food-Clerk / Cashier , Mar 2019 - Mar 2020',
+        link: 'https://www.homelandstores.com/'
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
